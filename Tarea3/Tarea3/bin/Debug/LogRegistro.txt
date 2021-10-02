@@ -1,0 +1,5 @@
+Datos registrados hasta el momento
+Cedula del empleado: 123-Nombre del empleado: sccc-Departamento: scc-Cargo: fdfdfd-Tipo de empleado: Tiempo completo-Salario: df-Precio por hora: dfdfdf-Tipo de cuenta: Cuenta bancaria-Numero de cuenta: fdfdf-Fecha y hora de creacion: viernes, 1 de octubre de 2021 08:57:38-Horas diarias laborales: 8 horas
+
+
+Cedula del empleado: 12345-Nombre del empleado: 1-Departamento: sdsdd-Cargo: sdsd-Tipo de empleado: Medio tiempo-Salario: sdsd-Precio por hora: sdsd-Tipo de cuenta: Cuenta bancaria-Numero de cuenta: sdd-Fecha y hora de creacion: viernes, 1 de octubre de 2021 09:02:17-Horas diarias laborales: 4 horas
